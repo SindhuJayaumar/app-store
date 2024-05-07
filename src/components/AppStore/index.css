@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #ace0f9, #7b8794);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 30px;
+  color: #1e293b;
+  font-weight: bold;
+}
+.search-input {
+  width: 30%%;
+  padding: 10px;
+}
+.search-img {
+  width: 30px;
+  background-color: #1e293b;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.search-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

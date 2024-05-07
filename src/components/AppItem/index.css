@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.app-item {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffff;
+  width: 80%;
+  border-radius: 10px;
+  list-style-type: none;
+  padding-top: 16px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.app-img {
+  width: 70px;
+  height: 70px;
+}
+.app-name {
+  font-size: 20px;
+  font-family: Roboto;
+  color: #1e293b;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.active-tab-btn {
+  border: 2px #2563eb;
+  color: #2563eb;
+  padding-bottom: 5px;
+}

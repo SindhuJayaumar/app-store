@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.btn {
+  background-color: transparent;
+  color: #1e293b;
+  font-family: Roboto;
+  font-size: 20px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
